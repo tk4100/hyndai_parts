@@ -1,2 +1,2 @@
-# hyndai_parts
+# hyundai_parts
 Various things I've created for a car.
